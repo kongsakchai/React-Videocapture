@@ -4,7 +4,7 @@
 
 ### Nintendo Switch + Video Capture Card + this
 
-![alt text](https://imgur.com/a/FmNyCgO)
+![Imgur](https://imgur.com/RgH2ze6)
 
 >You can Live Nintendo Switch Game to Discord
 
