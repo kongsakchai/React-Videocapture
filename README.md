@@ -2,9 +2,13 @@
 
 >stream video from your webcam
 
+URL : https://kongsakchai.github.io/React-Videocapture/
+
+> Please allow Camera and Microphone permissions
+
 ### Nintendo Switch + Video Capture Card + this
 
-[Imgur](https://imgur.com/RgH2ze6)
+![Imgur](https://i.imgur.com/41TxiJb.png)
 
 >You can Live Nintendo Switch Game to Discord
 
